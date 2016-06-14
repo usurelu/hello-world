@@ -1,0 +1,12 @@
+c:\users\usurelu\documents\visual studio 2015\Projects\AE\AE\bin\Debug\AE.exe.config
+c:\users\usurelu\documents\visual studio 2015\Projects\AE\AE\bin\Debug\AE.exe
+c:\users\usurelu\documents\visual studio 2015\Projects\AE\AE\bin\Debug\AE.pdb
+c:\users\usurelu\documents\visual studio 2015\Projects\AE\AE\obj\Debug\AE.csprojResolveAssemblyReference.cache
+c:\users\usurelu\documents\visual studio 2015\Projects\AE\AE\obj\Debug\AE.exe
+c:\users\usurelu\documents\visual studio 2015\Projects\AE\AE\obj\Debug\AE.pdb
+E:\IA\AE\AE\bin\Debug\AE.exe.config
+E:\IA\AE\AE\obj\Debug\AE.exe
+E:\IA\AE\AE\obj\Debug\AE.pdb
+E:\IA\AE\AE\bin\Debug\AE.exe
+E:\IA\AE\AE\bin\Debug\AE.pdb
+E:\IA\AE\AE\obj\Debug\AE.csprojResolveAssemblyReference.cache
