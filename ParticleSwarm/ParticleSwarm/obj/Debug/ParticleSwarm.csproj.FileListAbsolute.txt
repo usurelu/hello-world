@@ -1,0 +1,7 @@
+c:\users\usurelu\documents\visual studio 2015\Projects\ParticleSwarm\ParticleSwarm\bin\Debug\ParticleSwarm.exe.config
+E:\IA\ParticleSwarm\ParticleSwarm\bin\Debug\ParticleSwarm.exe.config
+E:\IA\ParticleSwarm\ParticleSwarm\bin\Debug\ParticleSwarm.exe
+E:\IA\ParticleSwarm\ParticleSwarm\bin\Debug\ParticleSwarm.pdb
+E:\IA\ParticleSwarm\ParticleSwarm\obj\Debug\ParticleSwarm.csprojResolveAssemblyReference.cache
+E:\IA\ParticleSwarm\ParticleSwarm\obj\Debug\ParticleSwarm.exe
+E:\IA\ParticleSwarm\ParticleSwarm\obj\Debug\ParticleSwarm.pdb
